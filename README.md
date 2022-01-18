@@ -1,3 +1,10 @@
+Web-app demo: https://restyoureyes-pomodoro.netlify.app/
+- Note: the interface looks best when the window is open with split screen (need to fix that)
+
+![image](https://user-images.githubusercontent.com/83562449/149849396-25ace242-7e09-4f18-9866-87e20642d8f0.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
